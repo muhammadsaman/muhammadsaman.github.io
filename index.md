@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+<html>
 
-You can use the [editor on GitHub](https://github.com/muhammadsaman/muhammadsaman.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
+    <h1 align="center">BIODATA DIRI</h1>
+    <table width="745" border="1" cellspacing="0" cellpadding="5" align="center">
+        <tr align="center" bgcolor="blue">
+            <td width="174">DATA DIRI</td>
+            <td width="353">KETERANGAN</td>
+            <td width="232">FOTO</td>
+            <td width="132">AUDIO</td>
+            <td width="232">VIDEO</td>
+        </tr>
+        <tr>
+            <td>Nama</td>
+            <td>M Saman Abdussalam</td>
+            <td rowspan="10" align="center"><img src="saman.jpg" width="210" height="315"></td>
+            <td rowspan="10" align="center"><audio src="cal.mp3" width="210" height="315" controls></td>
+            <td rowspan="10" align="center"><video src="vidio 17.mp4" width="210" height="315"controls></td>
+        </tr>
+        <tr>
+            <td>Jurusan</td>
+            <td>Teknik Informatika (TI)</td>
+        </tr>
+        <td>Jenjang</td>
+        <td>Strata-1 (S1)</td>
+        </tr>
+        <tr>
+            <td>Jenis Kelamin</td>
+            <td>Laki-laki</td>
+        </tr>
+        <tr>
+            <td>Tempat/Tanggal Lahir</td>
+            <td>Bandar Lampung, 20 oktober 1999</td>
+        </tr>
+        <tr>
+            <td>Perguruan Tinggi</td>
+            <td>UNIVERSITAS LAMPUNG</td>
+        </tr>
+        <tr>
+            <td>Alamat</td>
+            <td>Jl. Imam Bonjol Komplek SDN 1 Langkapura-Bandar Lampung</td>
+        </tr>
+    </table>
+</body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/muhammadsaman/muhammadsaman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
